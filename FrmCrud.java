@@ -15,7 +15,7 @@ import java.util.ArrayList;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
-
+//No Asi no se juega!
 
 /**
  *
@@ -31,7 +31,7 @@ public class FrmCrud extends javax.swing.JFrame {
         initComponents();
         btnActualizar.setVisible(false);
         btnEliminar.setVisible(false);
-        this.setLocationRelativeTo(null);
+        
         Func_buscarEps();
     }
 
